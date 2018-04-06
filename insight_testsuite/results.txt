@@ -1,2 +1,0 @@
-[Fri Apr  6 00:34:46 MST 2018] 1 of 1 tests passed
-[Fri Apr  6 01:29:50 MST 2018] 1 of 1 tests passed
