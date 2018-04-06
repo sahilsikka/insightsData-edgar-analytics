@@ -10,3 +10,5 @@ I have imported following libraries
 2)from collections import OrderedDict
 3)from datetime import datetime 
 4)from datetime import timedelta
+
+Note: If you get permission denied error: give permission to run_tests.sh file inside insight_testsuite folder. Use command chmod +x run_tests.sh
